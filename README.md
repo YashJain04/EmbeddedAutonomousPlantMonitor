@@ -6,7 +6,7 @@ An embedded autonomous plant monitor system I engineered that will automatically
 
 To create this project I leveraged the Arduino Microcontroller Unit (MCU), along with other parts such as water pumps, moisture modules, humidity/temperature sensors.
 
-This project was developed in C.
+This project was developed in C/C++.
 
 ## Inspiration ✨
 
